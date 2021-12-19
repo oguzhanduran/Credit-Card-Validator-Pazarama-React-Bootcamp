@@ -1,0 +1,20 @@
+
+.container {
+    
+    background: rgb(2,0,36);
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+    margin-top: 50px;
+    
+    
+}
+
+.div{
+    margin-top: 100px;
+}
+
+.input {
+    padding: 5px;
+    width: 100%;
+    border-radius: 10px;
+}
